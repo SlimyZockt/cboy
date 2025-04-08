@@ -7,3 +7,6 @@ CMakeCache.txt
 roms/
 a.out
 cmake-build-debug/
+compile_commands.json
+cmake_install.cmake
+Makefile
