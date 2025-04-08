@@ -1,0 +1,9 @@
+build/
+Debug/
+CMakeFiles/
+CMakeCache.txt
+.cmake/
+.cache/
+roms/
+a.out
+cmake-build-debug/
