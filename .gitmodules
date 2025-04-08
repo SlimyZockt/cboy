@@ -1,0 +1,6 @@
+[submodule "vendored/cJSON"]
+	path = vendored/cJSON
+	url = https://github.com/DaveGamble/cJSON.git
+[submodule "vendored/SDL"]
+	path = vendored/SDL
+	url = https://github.com/libsdl-org/SDL.git
